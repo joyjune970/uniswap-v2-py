@@ -13,7 +13,7 @@ setuptools.setup(
     description="A unofficial wrapper for Uniswap V2",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/asynctomatic/uniswap-v2-py",
+    url="https://github.com/nosofa/uniswap-v2-py",
     packages=setuptools.find_packages(),
     package_data={"uniswap": ["assets/*"]},
     install_requires=["web3"],
